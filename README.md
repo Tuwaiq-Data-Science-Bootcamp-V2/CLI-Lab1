@@ -1,4 +1,4 @@
-# Day2-Lab1-CLI
+# CLI-Lab1
 
 ### Using the command line to do the following:
 - Create a new directory and name it “LAB-1_CLI”.
